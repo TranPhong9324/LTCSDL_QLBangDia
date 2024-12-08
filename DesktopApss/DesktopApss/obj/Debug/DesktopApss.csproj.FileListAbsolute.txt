@@ -1,0 +1,31 @@
+C:\Users\nguye\source\repos\DesktopApss\DesktopApss\bin\Debug\DesktopApss.exe.config
+C:\Users\nguye\source\repos\DesktopApss\DesktopApss\bin\Debug\DesktopApss.exe
+C:\Users\nguye\source\repos\DesktopApss\DesktopApss\bin\Debug\DesktopApss.pdb
+C:\Users\nguye\source\repos\DesktopApss\DesktopApss\obj\Debug\DesktopApss.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\DesktopApss\DesktopApss\obj\Debug\DesktopApss.frmBangDia.resources
+C:\Users\nguye\source\repos\DesktopApss\DesktopApss\obj\Debug\DesktopApss.Properties.Resources.resources
+C:\Users\nguye\source\repos\DesktopApss\DesktopApss\obj\Debug\DesktopApss.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\DesktopApss\DesktopApss\obj\Debug\DesktopApss.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\DesktopApss\DesktopApss\obj\Debug\DesktopApss.exe
+C:\Users\nguye\source\repos\DesktopApss\DesktopApss\obj\Debug\DesktopApss.pdb
+E:\Desktop app\DesktopApss\DesktopApss\bin\Debug\DesktopApss.exe.config
+E:\Desktop app\DesktopApss\DesktopApss\bin\Debug\DesktopApss.exe
+E:\Desktop app\DesktopApss\DesktopApss\bin\Debug\DesktopApss.pdb
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.csproj.AssemblyReference.cache
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.frmBangDia.resources
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.Quản_lý_kho.resources
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.Properties.Resources.resources
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.csproj.GenerateResource.cache
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.csproj.CoreCompileInputs.cache
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.exe
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.pdb
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.Chọn.resources
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.FrmAD.resources
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.Thông_tin_nhân_viên.resources
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.AddTheLoai.resources
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.Form1.resources
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.Quản_lý_khách_hàng.resources
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.Add_Giảm_giá.resources
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.Quản_lý_nhân_viên.resources
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.Form_đổi_mật_khẩu.resources
+E:\Desktop app\DesktopApss\DesktopApss\obj\Debug\DesktopApss.Form2.resources
